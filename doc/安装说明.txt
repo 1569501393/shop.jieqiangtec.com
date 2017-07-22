@@ -1,0 +1,16 @@
+ecshop添加微信支付
+
+详细安装说明请见：
+http://www.haoid.cn/post/595
+
+
+jieqiang
+jieqiang
+
+支付目录
+http://localhost/users/ecshop3.jieqiangtec.com/mobile
+
+
+http://localhost/users/ecshop3.jieqiangtec.com/admin/index.php
+admin
+admin888
